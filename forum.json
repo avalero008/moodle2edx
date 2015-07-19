@@ -1,0 +1,31 @@
+{
+    "body": "General news and announcements", 
+    "anonymous_to_peers": false, 
+    "votes": {
+        "count": 0, 
+        "point": 0, 
+        "down_count": 0, 
+        "up": [], 
+        "down": [], 
+        "up_count": 0
+    }, 
+    "author_username": "", 
+    "title": "News forum", 
+    "historical_abuse_flaggers": [], 
+    "created_at": "ISODate(\"2015-06-08T18:19:19.669Z\")", 
+    "comment_thread_id": "de84067b-7a25-49cf-ac8b-9f7ccbeea571", 
+    "thread_type": "discussion", 
+    "_type": "CommentThread", 
+    "updated_at": "ISODate(\"2015-06-08T18:19:19.669Z\")",
+    "last_activity_at": "ISODate(\"2015-06-08T18:19:19.669Z\")", 
+    "abuse_flaggers": [], 
+    "visible": true, 
+    "comment_count": 2, 
+    "sk": "5575dca756c02c8a01000003", 
+    "anonymous": false, 
+    "course_id": "foroupv/f1/2014foro", 
+    "at_position_list": [], 
+    "_id": "idbat12344", 
+    "endorsed": false, 
+    "author_id": "avalero008"
+}

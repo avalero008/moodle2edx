@@ -1,0 +1,30 @@
+{
+	"_id" : ObjectId("556ca55a56c02c5c3a001222"),
+	"votes" : {
+		"up" : [ ],
+		"down" : [ ],
+		"up_count" : 0,
+		"down_count" : 0,
+		"count" : 0,
+		"point" : 0
+	},
+	"visible" : true,
+	"abuse_flaggers" : [ ],
+	"historical_abuse_flaggers" : [ ],
+	"thread_type" : "discussion",
+	"comment_count" : 0,
+	"at_position_list" : [ ],
+	"title" : "IMPORTED DISCUSSION",
+	"body" : "BODYYYY DEL IMPORTADOOOOOOOOOO",
+	"course_id" : "foroupv/f1/2014foro",
+	"commentable_id" : "8fc2fca6c81c9cb0647b67b5128afbcc78771359",
+	"_type" : "CommentThread",
+	"anonymous" : false,
+	"anonymous_to_peers" : false,
+	"closed" : false,
+	"author_id" : "9",
+	"author_username" : "avalero008",
+	"updated_at" : "2015-06-01T18:32:58.543Z",
+	"created_at" : "2015-06-01T18:32:58.543Z",
+	"last_activity_at" : "2015-06-01T18:34:50.998Z"
+}
